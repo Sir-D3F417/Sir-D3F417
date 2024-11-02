@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/norah.__.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="norah.__.c" height="30" width="40" /></a>
+<a href="https://instagram.com/norah.__.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/3837b11e962ad78272df5b2937bf7d9c5fc79155/icons/telegram.svg" alt="norah.__.c" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCuB6jaIteNdLWOrQky8cEIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucub6jaitendlworqky8ceig" height="30" width="40" /></a>
 </p>
 
